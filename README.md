@@ -1,3 +1,4 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/MrDeyi/Backend/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/MrDeyi/Backend/tree/master)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
